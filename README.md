@@ -1,4 +1,4 @@
-# jQuery.payment
+# jQuery.payment - Test
 
 A general purpose library for building credit card forms, validating inputs and formatting numbers.
 
